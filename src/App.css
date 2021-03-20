@@ -9,8 +9,14 @@
 
 .home, .reports, .products, .messages, .teams, .support{
   display: flex;
-  height: 90vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+  font-size: 1.2rem;
+  padding: 0 4rem;
+  text-align: justify;
 }
+
+/* .home-container{
+  background-image: url('assets/images/home-coding.jpg');
+  height: 100vh;
+} */
